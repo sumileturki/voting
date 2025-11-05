@@ -1,0 +1,8 @@
+/Users/sumile/Developer/Solana-bootcamp/dvoting/voting/anchor/target/sbpf-solana-solana/release/deps/libsolana_pubkey-dfbb0d9cff08c538.rmeta: /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/lib.rs /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/syscalls.rs
+
+/Users/sumile/Developer/Solana-bootcamp/dvoting/voting/anchor/target/sbpf-solana-solana/release/deps/libsolana_pubkey-dfbb0d9cff08c538.rlib: /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/lib.rs /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/syscalls.rs
+
+/Users/sumile/Developer/Solana-bootcamp/dvoting/voting/anchor/target/sbpf-solana-solana/release/deps/solana_pubkey-dfbb0d9cff08c538.d: /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/lib.rs /Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/syscalls.rs
+
+/Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/lib.rs:
+/Users/sumile/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-pubkey-2.3.0/src/syscalls.rs:
